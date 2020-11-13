@@ -1,0 +1,8 @@
+.member-list {
+}
+.member-list-content-wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  row-gap: 15px;
+  column-gap: 15px;
+}
